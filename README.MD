@@ -31,5 +31,5 @@ Please create a pull request to start contributing.
 
 ## License
 
-[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+[GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
